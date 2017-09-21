@@ -86,15 +86,16 @@ ul {
 
 .abc__img {
   margin: 0 auto;
-	width: 100%;   
+	width: 100%; 
+  height: 500px;  
 }
 
 .footer{
   display: flex;
-  width: 32%
+  width: 10%
   float: center;
-  font-weight: 300;
-  font-size: 5em;
+  font-weight: 100;
+  font-size: 2em;
   margin: 1.0em 1.0em;
   display: inline-block;
   color: #7d97ad;
@@ -117,13 +118,13 @@ ul {
 
 
 .nav__item {
-  font-size: 20px;
+  font-size: 10px;
   flex: 1;
   box-sizing: border-box;
   display: inline-block;
   width: 32%;
   text-align: center;
-  padding: 24px;
+  padding: 10px;
   line-height: 29px;
   color: #2d3c49;
 }
